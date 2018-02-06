@@ -6,7 +6,7 @@ Nous vous invitons à lire "rapport-MonitoringActivite.pdf" dans le dossier "rap
 
 ## 1) Court descriptif du projet
 
-L’objectif du monitoring d’activité est de proposer une interface permettant de visualiser l’ensemble des informations caractérisant l’activité de la personne présente dans le LaboVision. Le LaboVision est une pièce où peut résider une personne. Cette pièce dispose de plusieurs capteurs. Afin de caractériser l'activité présente dans la pièce, trois indicateurs ont été développés :
+L’objectif du monitoring d’activité est de proposer une interface permettant de visualiser l’ensemble des informations caractérisant l’activité de la personne présente dans le LaboVision. Le LaboVision est une pièce où peut résider une personne. Cette pièce dispose de plusieurs capteurs. Afin de caractériser l'activité de la personne présente dans la pièce, trois indicateurs ont été développés :
 
   1) Temps passé devant la télévision.
   2) Présence de la personne dans les différentes parties du LaboVision (cuisine, salon, chambre).
