@@ -1,10 +1,14 @@
 # MonitoringActivite
  
-Nous vous invitons à lire "rapport-MonitoringActivite.pdf" dans le dossier "rapport".
+Nous vous invitons à lire "rapport-MonitoringActivite.pdf" dans le dossier "rapport" pour mieux prendre connaissance du projet.
  
 <b>Remarque :</b> la documentation utilisateur pour le site "Monitoring d'activité" se trouve dans le répertoire "User-Doc".
+
+## 1) Court descriptif du projet
+
+zezerzerzer
  
-## 1) Machines utilisées
+## 2) Machines utilisées
 
 Voici l'ensemble des informations liées aux machines / adresses IP utilisées pour la version du projet déjà déployée dans le LaboVision.
 
@@ -25,7 +29,7 @@ Voici l'ensemble des informations liées aux machines / adresses IP utilisées p
     - DetectZone : détecte les déplacements dans le LaboVision et envoie les données via WebSocket (port 4440)
     - WSLitener : reçoie ces données WebSocket et les communiquent aux fichiers PHP du site pour l'insertion en BDD
 
-## 2) Déploiement du projet
+## 3) Déploiement du projet
 
 1) Créer une BDD MySQL avec comme nom de BDD : monitoring_activite.
  
