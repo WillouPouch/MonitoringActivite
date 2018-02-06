@@ -2,7 +2,7 @@
  
 Nous vous invitons à lire "rapport-MonitoringActivite.pdf" dans le dossier "rapport" pour mieux prendre connaissance du projet.
  
-<b>Remarque :</b> la documentation utilisateur pour le site "Monitoring d'activité" se trouve dans le répertoire "User-Doc".
+<b>Remarque :</b> La documentation utilisateur pour le site "Monitoring d'activité" se trouve dans le répertoire "User-Doc".
 
 ## 1) Court descriptif du projet
 
@@ -50,4 +50,4 @@ Voici l'ensemble des informations liées aux machines / adresses IP utilisées p
 7) Compiler les 4 programmes sous Qt et les placer sur les machines désirées.
 
     
-<b>Attention :</b> si vous déployez les programmes sur des machines différentes que celle de la verison actuellement en production, pensez à modifier le fichier "run.sh" pour le lancement du programme "WSListener" (ces adresses correspondent aux machines hébergeant les programmes. Adresses utilisées pour les communications WebSockets).
+<b>Attention :</b> Si vous déployez les programmes sur des machines différentes que celle de la version actuellement en production, pensez à modifier le fichier "run.sh" pour le lancement du programme "WSListener" (les adresses correspondent aux machines hébergeant les programmes. Adresses utilisées pour les communications WebSockets).
