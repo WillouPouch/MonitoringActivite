@@ -11,6 +11,8 @@ L’objectif du monitoring d’activité est de proposer une interface permettan
   1) Temps passé devant la télévision.
   2) Présence de la personne dans les différentes parties du LaboVision (cuisine, salon, chambre).
   3) Anomalies sonores (niveau sonore anormalement élevé). L’utilisateur du monitoring peut configurer les paramètres qui caractérisent une anomalie sonore (le seuil de déclenchement, pendant combien de seconde, et sur quelle tranche horaire de la journée).
+  
+Trois programmes s'exécutant sur des machines présentes dans le LaboVision permettent de générer les données de ces indicateurs.
  
 ## 2) Machines utilisées
 
