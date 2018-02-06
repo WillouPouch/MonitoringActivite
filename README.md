@@ -45,7 +45,7 @@ Voici l'ensemble des informations liées aux machines / adresses IP utilisées p
 
     - l'adresse de la caméra dans les fichiers "zonetracker.cpp" (programme DetectZone) et "tvtracker.cpp" (programme EnregTV) dans la méthode tracking().
     - l'adresse IP fournie à l'initialisation du membre "m_network" dans le constructeur du fichier "listeconfanomaliesonore.cpp" (programme BruitLabo). L'adresse IP doit être celle de la machine où se trouve le site déployé à l'étape n°4.
-		- l'adresse IP fournie à l'initialisation du membre "m_network" dans le constructeur du fichier "detect.cpp" (programme WSLitener). L'adresse IP doit être celle de la machine où se trouve le site déployé à l'étape n°4.
+    - l'adresse IP fournie à l'initialisation du membre "m_network" dans le constructeur du fichier "detect.cpp" (programme WSLitener). L'adresse IP doit être celle de la machine où se trouve le site déployé à l'étape n°4.
 		  
 7) Compiler les 4 programmes sous Qt et les placer sur les machines désirées.
 
