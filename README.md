@@ -1,4 +1,4 @@
-# MonitoringActivite
+# MonitoringActivite - Projet M1
  
 Nous vous invitons à lire "rapport-MonitoringActivite.pdf" dans le dossier "rapport" pour mieux prendre connaissance du projet.
  
